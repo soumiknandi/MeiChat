@@ -1,0 +1,13 @@
+const actions = {
+  CONNECT: 'CONNECT',
+  SET_USER_NAME: 'SET_USER_NAME',
+  ADD_USERS: 'ADD_USERS',
+  ADD_SENT_MSG: 'ADD_SENT_MSG',
+  ADD_REV_MSG: 'ADD_REV_MSG',
+  ADD_MY_INFO: 'ADD_MY_INFO',
+  SET_OLD_CHATS: 'SET_OLD_CHATS',
+  LOGIN: 'LOGIN',
+  CLEAR: 'CLEAR',
+};
+
+export default actions;

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "996225135586",
+    "project_id": "mei-chat-app",
+    "storage_bucket": "mei-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996225135586:android:e95c08aa6f1bb73ca03fbb",
+        "android_client_info": {
+          "package_name": "com.meichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996225135586-91e6cuqkrv1tes2ajr1unu9bq67s58c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meichat",
+            "certificate_hash": "6dc96cb8e83b14f127b46fdd09b09ca0c2e1dd67"
+          }
+        },
+        {
+          "client_id": "996225135586-r6ij4ungu5ug69vtqkp5ifvo62cifmab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA48gDHsBnT9Ug_vrwz6lY_iJyVrbPEirc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996225135586-r6ij4ungu5ug69vtqkp5ifvo62cifmab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
